@@ -1,10 +1,10 @@
 ---
-id: 19080
-course_id: 3299
+id: 53497
+course_id: 7559
 repo: phase-3-quiz-class-variables-and-methods
 ---
 
-# Class Variables and Methods Quiz
+# Class Attributes and Methods Quiz 
 
 It's time to check your knowledge! Use this quiz to create a custom study guide.
 Note any answers that were marked incorrect, so you can study the relevant
